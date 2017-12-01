@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="LineChartsView">
+        <!--X轴和Y轴的宽度-->
+        <attr name="mPaintWidth_XY" format="dimension"></attr>
+        <!--X轴和Y轴的颜色-->
+        <attr name="mPaintColor_XY" format="color"></attr>
+        <!--折线的宽度-->
+        <attr name="mPaintWidth_line" format="dimension"></attr>
+        <!--最小值画笔颜色-->
+        <attr name="mPaintColor_min" format="color"></attr>
+        <!--最大值画笔颜色-->
+        <attr name="mPaintColor_max" format="color"></attr>
+        <!--标题画笔宽度和颜色-->
+        <attr name="mPaintWidth_title" format="dimension"></attr>
+        <attr name="mPaintColor_title" format="color"></attr>
+    </declare-styleable>
+
+
+</resources>
