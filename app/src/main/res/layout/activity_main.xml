@@ -12,6 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#ffffff"
+        app:mPaintWidth_XY="2dp"
+        app:mPaintColor_XY="#1BC1F3"
          />
 
 </LinearLayout>
